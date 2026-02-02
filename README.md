@@ -1,1 +1,1 @@
-# telepathbotinfo
+Legal info for my discord bot
